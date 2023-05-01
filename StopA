@@ -15,54 +15,7 @@
         "engdest2" : "HANEDA BAY",
         "chivia2" : "經: 鳳凰山轉車站, 彩灣",
         "engvia2" : "VIA: FUNG WONG SHAN BBI, CHOI WAN"
-    },
+    }
     
-    
-    
-        {
-        "stopnum" : "SR-02",
-        "stopnamechi" : "日落碼頭總站-2",
-        "stopnameeng" : "SUNSET PIER BUS TERMINUS-2",
-        "stoptype" : 1,
-        
-        "rt1" : {
-                 "rt": {"70B","white","black"},
-                 "chidest" : "彩灣市中心",
-                 "engdest" : "CHOI WAN CENTRE",
-                 "chivia" : "",
-                 "engvia" : "",
-                },
-        "rt2" : {
-                 "rt": {"70M","white","black"},
-                 "chidest" : "海逸邨",
-                 "engdest" : "HOI YAT ESTATE",
-                 "chivia" : "",
-                 "engvia" : "",
-                },
-    },
-    
-    
-    {
-        "stopnum" : "SR-03",
-        "stopnamechi" : "日落碼頭總站-3",
-        "stopnameeng" : "SUNSET PIER BUS TERMINUS-3",
-        "stoptype" : 1,
-        
-        "rt1" : {
-                 "rt": {"71","white","black"},
-                 "chidest" : "東洋山",
-                 "engdest" : "TUNG YEUNG SHAN",
-                 "chivia" : "",
-                 "engvia" : "",
-                },
-        "rt2" : {
-                 "rt": {"N71","black","white"},
-                 "chidest" : "東洋山",
-                 "engdest" : "TUNG YEUNG SHAN",
-                 "chivia" : "",
-                 "engvia" : "",
-                },
-    },
-    
-    ]
+ ]
 }
