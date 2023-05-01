@@ -4,7 +4,7 @@
         "stopnum" : "SR-01",
         "stopnamechi" : "日落碼頭總站-1",
         "stopnameeng" : "SUNSET PIER BUS TERMINUS-1",
-        "stoptype" : 0,
+        "stoptype" : 1,
         "rt1": ["70","W","B"],
         "chidest1" : "羽田海灣",
         "engdest1" : "HANEDA BAY",
