@@ -15,7 +15,24 @@
         "engdest2" : "HANEDA BAY",
         "chivia2" : "經: 鳳凰山轉車站, 彩灣",
         "engvia2" : "VIA: FUNG WONG SHAN BBI, CHOI WAN"
+    },
+    {
+        "stopnum" : "M167",
+        "stopnamechi" : "南灣大馬路/時代",
+        "stopnameeng" : "PRAIA GRANDE/ SI TOI",
+        "stoptype" : 2,
+        "rt1": ["2","W","B"],
+        "rt2": ["5","W","B"],
+        "rt3": ["6A","W","B"],
+        "rt4": ["16","W","B"],
+        "rt5": ["16S","W","B"],
+        "rt6": ["28B","W","B"],
+        "rt7": ["","W","B"],
+        "rt8": ["","W","B"],
+        "rt9": ["","W","B"],
+        "rt10": ["","W","B"],
+        "rt11": ["","W","B"],
+        "rt12": ["","W","B"],
     }
-    
  ]
 }
