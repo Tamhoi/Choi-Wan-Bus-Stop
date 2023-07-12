@@ -528,7 +528,7 @@
         "rt11": ["","W","B"],
         "rt12": ["","W","B"]
     },
-        "stopnum" : "SR-27",
+     {   "stopnum" : "SR-27",
         "stopnamechi" : "烏龜灣村",
         "stopnameeng" : "TURTLE BAY VILLAGE",
         "stoptype" : 2,
@@ -545,7 +545,7 @@
         "rt11": ["","W","B"],
         "rt12": ["","W","B"]
     },
-        "stopnum" : "SR-28",
+     {   "stopnum" : "SR-28",
         "stopnamechi" : "烏龜灣村",
         "stopnameeng" : "TURTLE BAY VILLAGE",
         "stoptype" : 2,
@@ -800,7 +800,7 @@
     },
     {
         "stopnum" : "TYS-05",
-        "stopnamechi" : "澳頭村,
+        "stopnamechi" : "澳頭村",
         "stopnameeng" : "O TAU VILLAGE",
         "stoptype" : 2,
         "rt1": ["71","W","B"],
