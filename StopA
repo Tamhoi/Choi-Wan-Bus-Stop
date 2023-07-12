@@ -1,7 +1,7 @@
 {
     "StopName": [
     {
-        "stopnum" : "SPT-01",
+        "stopnum" : "SP-01",
         "stopnamechi" : "日落碼頭總站-1",
         "stopnameeng" : "SUNSET PIER BUS TERMINUS-1",
         "stoptype" : 1,
@@ -17,7 +17,7 @@
         "engvia2" : "VIA: FUNG WONG SHAN BBI, CHOI WAN"
     },
     {
-        "stopnum" : "SPT-02",
+        "stopnum" : "SP-02",
         "stopnamechi" : "日落碼頭總站-2",
         "stopnameeng" : "SUNSET PIER BUS TERMINUS-2",
         "stoptype" : 0,
