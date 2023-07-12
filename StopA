@@ -22,10 +22,10 @@
         "stopnameeng" : "SUNSET PIER BUS TERMINUS-2",
         "stoptype" : 1,
         "rt1": ["70M","W","B"],
-        "chidest1" : "羽田海灣",
-        "engdest1" : "HANEDA BAY",
-        "chivia1" : "經: 飛馬山, 貨櫃碼頭, 鳳凰山轉車站",
-        "engvia1" : "VIA: PEGASUS HILL, CONTAINER TERMINAL, FUNG WONG SHAN BBI",
+        "chidest1" : "海逸邨",
+        "engdest1" : "HOI YAT ESTATE",
+        "chivia1" : "經: 日出閣,海逸灣",
+        "engvia1" : "VIA:  SUNRISE VILLA,HOI YAT BAY"
     },
     {
         "stopnum" : "M167",
