@@ -16,17 +16,7 @@
         "chivia2" : "經: 鳳凰山轉車站, 彩灣",
         "engvia2" : "VIA: FUNG WONG SHAN BBI, CHOI WAN"
     },
-    {
-        "stopnum" : "SP-02",
-        "stopnamechi" : "日落碼頭總站-2",
-        "stopnameeng" : "SUNSET PIER BUS TERMINUS-2",
-        "stoptype" : 0,
-        "rt1": ["70M","W","B"],
-        "chidest1" : "海逸邨",
-        "engdest1" : "HOI YAT ESTATE",
-        "chivia1" : "經: 日出閣,海逸灣",
-        "engvia1" : "VIA:  SUNRISE VILLA,HOI YAT BAY"
-    },
+
     {
         "stopnum" : "M167",
         "stopnamechi" : "南灣大馬路/時代",
