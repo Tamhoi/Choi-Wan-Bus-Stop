@@ -20,7 +20,7 @@
         "stopnum" : "SPT-02",
         "stopnamechi" : "日落碼頭總站-2",
         "stopnameeng" : "SUNSET PIER BUS TERMINUS-2",
-        "stoptype" : 1,
+        "stoptype" : 0,
         "rt1": ["70M","W","B"],
         "chidest1" : "海逸邨",
         "engdest1" : "HOI YAT ESTATE",
