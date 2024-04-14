@@ -959,13 +959,13 @@
         "rt1": ["70","W","B"],
         "chidest1" : "日落碼頭",
         "engdest1" : "SUNSET PIER",
-        "chivia1" : "",
-        "engvia1" : "",
+        "chivia1" : "與70A同路",
+        "engvia1" : "ROUTE SAME OF 70A",
         "rt2": ["70A","W","B"],
         "chidest2" : "日落碼頭",
         "engdest2" : "SUNSET PIER",
-        "chivia2" : "",
-        "engvia2" : ""
+        "chivia2" : "與70同路",
+        "engvia2" : "ROUTE SAME OF 70A""
     },
     {
         "stopnum" : "RP-02",
