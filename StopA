@@ -951,6 +951,22 @@
         "chivia1" : "",
         "engvia1" : ""
     },
+    {
+        "stopnum" : "RP-01",
+        "stopnamechi" : "河畔碼頭總站-1",
+        "stopnameeng" : "SUNSET PIER BUS TERMINUS-1",
+        "stoptype" : 1,
+        "rt1": ["70","W","B"],
+        "chidest1" : "羽田海灣",
+        "engdest1" : "HANEDA BAY",
+        "chivia1" : "經: 飛馬山, 貨櫃碼頭, 鳳凰山轉車站",
+        "engvia1" : "VIA: PEGASUS HILL, CONTAINER TERMINAL, FUNG WONG SHAN BBI",
+        "rt2": ["70A","W","B"],
+        "chidest2" : "羽田海灣",
+        "engdest2" : "HANEDA BAY",
+        "chivia2" : "經: 鳳凰山轉車站, 彩灣",
+        "engvia2" : "VIA: FUNG WONG SHAN BBI, CHOI WAN"
+    },
 
     {
         "stopnum" : "M167",
