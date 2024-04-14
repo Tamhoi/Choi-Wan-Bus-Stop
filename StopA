@@ -658,7 +658,7 @@
 
     {
         "stopnum" : "SH-06",
-        "stopnamechi" : "嶺",
+        "stopnamechi" : "雞嶺",
         "stopnameeng" : "CHICK LENG",
         "stoptype" : 2,
         "rt1": ["N71","W","B"],
@@ -982,6 +982,64 @@
         "engdest2" : "HANEDA BAY",
         "chivia2" : "經: 鳳凰山轉車站, 彩灣",
         "engvia2" : "VIA: FUNG WONG SHAN BBI, CHOI WAN"
+    },
+    {
+        "stopnum" : "SVS-01",
+        "stopnamechi" : "日落谷站",
+        "stopnameeng" : "SUNSET STATION",
+        "stoptype" : 0,
+        "rt1": ["251X","W","B"],
+        "chidest1" : "中秀邨",
+        "engdest1" : "CHEUNG SAU ESTATE",
+        "chivia1" : "經: 天際100, 巴膠花園",
+        "engvia1" : "VIA: SKYLINE 100 ,BAUTTE GAREN"
+    },
+    {
+        "stopnum" : "CSE-01",
+        "stopnamechi" : "中秀邨",
+        "stopnameeng" : "CHEUNG SAU ESTATE-1",
+        "stoptype" : 0,
+        "rt1": ["251X","W","B"],
+        "chidest1" : "日落谷站",
+        "engdest1" : "SUNSET STATION",
+        "chivia1" : "經: 天際100, 巴膠花園",
+        "engvia1" : "VIA: SKYLINE 100 ,BAUTTE GAREN"
+    },
+    {
+        "stopnum" : "CSE-02",
+        "stopnamechi" : "中秀邨",
+        "stopnameeng" : "CHEUNG SAU ESTATE-2",
+        "stoptype" : 2,
+        "rt1": ["251","W","B"],
+        "rt2": ["","W","B"],
+        "rt3": ["","W","B"],
+        "rt4": ["","W","B"],
+        "rt5": ["","W","B"],
+        "rt6": ["","W","B"],
+        "rt7": ["","W","B"],
+        "rt8": ["","W","B"],
+        "rt9": ["","W","B"],
+        "rt10": ["","W","B"],
+        "rt11": ["","W","B"],
+        "rt12": ["","W","B"]
+    },
+    {
+        "stopnum" : "CSE-03",
+        "stopnamechi" : "中秀邨",
+        "stopnameeng" : "CHEUNG SAU ESTATE-3",
+        "stoptype" : 2,
+        "rt1": ["251","W","B"],
+        "rt2": ["","W","B"],
+        "rt3": ["","W","B"],
+        "rt4": ["","W","B"],
+        "rt5": ["","W","B"],
+        "rt6": ["","W","B"],
+        "rt7": ["","W","B"],
+        "rt8": ["","W","B"],
+        "rt9": ["","W","B"],
+        "rt10": ["","W","B"],
+        "rt11": ["","W","B"],
+        "rt12": ["","W","B"]
     },
 
     {
