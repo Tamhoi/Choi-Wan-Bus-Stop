@@ -28,6 +28,22 @@
         "engvia1" : "VIA:  SUNRISE VILLA,HOI YAT BAY"
     },
     {
+        "stopnum" : "HB-01",
+        "stopnamechi" : "羽田海灣-1",
+        "stopnameeng" : "HANEDA BAY-1",
+        "stoptype" : 1,
+        "rt1": ["70","W","B"],
+        "chidest1" : "日落碼頭",
+        "engdest1" : "SUNSET PIER",
+        "chivia1" : "經: 飛馬山, 貨櫃碼頭, 鳳凰山轉車站",
+        "engvia1" : "VIA: PEGASUS HILL, CONTAINER TERMINAL, FUNG WONG SHAN BBI",
+        "rt2": ["70A","W","B"],
+        "chidest2" : "日落碼頭",
+        "engdest2" : "SUNSET PIER",
+        "chivia2" : "經: 彩灣, 鳳凰山, 鳳凰山轉車站",
+        "engvia2" : "VIA:CHOI WAN, FUNG WONG SHAN, FUNG WONG SHAN BBI"
+    },
+    {
         "stopnum" : "SP-02",
         "stopnamechi" : "日落碼頭總站-2",
         "stopnameeng" : "SUNSET PIER BUS TERMINUS-2",
