@@ -1057,6 +1057,28 @@
         "rt11": ["","W","B"],
         "rt12": ["","W","B"]
     },
+    {
+        "stopnum" : "SSE-01",
+        "stopnamechi" : "上秀邨",
+        "stopnameeng" : "SHEUNG SAU ESTATE-3",
+        "stoptype" : 0,
+        "rt1": ["251","W","B"],
+        "chidest1" : "半山站",
+        "engdest1" : "MID-LEVELS",
+        "chivia1" : "經: 彩灣市中心",
+        "engvia1" : "VIA: CHOI WAN CENTER"
+    },
+    {
+        "stopnum" : "ML-01",
+        "stopnamechi" : "半山站-1",
+        "stopnameeng" : "MID-LEVELS-1",
+        "stoptype" : 0,
+        "rt1": ["251","W","B"],
+        "chidest1" : "上秀邨",
+        "engdest1" : "SHEUNG SAU ESTATE",
+        "chivia1" : "經: 彩灣市中心",
+        "engvia1" : "VIA: CHOI WAN CENTER"
+    },
 
     {
         "stopnum" : "M167",
